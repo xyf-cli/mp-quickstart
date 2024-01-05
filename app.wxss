@@ -1,0 +1,4 @@
+/**app.wxss**/
+@import "/static/css/util.wxss";
+@import "/static/css/common.wxss";
+@import "/static/font/iconfont.wxss";
